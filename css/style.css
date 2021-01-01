@@ -101,6 +101,16 @@ footer {
   padding: 0 0 19px 0;
   color: #2b2b2b; }
 
+@media (max-width: 768px) {
+  .background__item--content1 {
+    background-image: url("../images/blueSperm_mini.jpg"); }
+  .background__item--content2 {
+    background-image: url("../images/science-elements_mini.jpg"); }
+  .background__item--content3 {
+    background-image: url("../images/microscope_mini.jpg"); }
+  .background__item--content4 {
+    background-image: url("../images/mission_mini.jpg"); } }
+
 .background__item--margin {
   padding-left: 50px; }
 
